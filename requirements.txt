@@ -6,3 +6,8 @@ beautifulsoup4
 ipykernel
 faiss-cpu
 streamlit
+langchain-groq
+langchain_core
+fastapi
+uvicorn
+langserve 
